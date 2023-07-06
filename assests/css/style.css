@@ -102,3 +102,29 @@
 }
 
 /*About Section*/
+#about{
+    display:flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom:50px;
+
+}
+#pic{
+  display:flex;  
+}
+#pic{
+    width:575xpx;
+    height:400px;
+}
+
+#intro{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 10px;  
+}
+#intro h2{
+    font-size: 2rem;
+    
+}
