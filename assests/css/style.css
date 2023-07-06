@@ -59,8 +59,8 @@
    position: absolute;
    top: 0;
    right: 0;
-   background: url('../img/camera-1130731_1280.jpg')no-repeat center center/cover;
-   height: 900px;
+   background: url('../img/photograper.gif')no-repeat center center/cover;
+   height: 890px;
    width: 100%;
    z-index: -1;
    opacity: .8;
