@@ -113,7 +113,7 @@
 #pic{
   display:flex;  
 }
-#pic{
+#pic img{
     width:575xpx;
     height:400px;
 }
@@ -126,6 +126,8 @@
 }
 #intro h2{
     font-size: 2rem;
-
+    margin-bottom: 20px;
     
 }
+
+/*Gallary section*/
