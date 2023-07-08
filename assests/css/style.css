@@ -152,4 +152,39 @@
 
  }
  /*Services center */
+ #services{
+    display:flex;
+    flex-direction: column;
+    padding: 20px;
+
+ }
+.row{
+    display: flex;
+
+}
+.box{
+    display:flex;
+    flex-direction: column;
+    width: 350px;
+    height: 450px;
+    border: 1px solid black;
+    margin: 10px;
+    align-items: center;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: linear-gradient(to top,rgb(255,45,45) 50%, white 50%);
+    background-size: 100% 200%;
+    transition: all .8s;
+
+}
+.btn:hover{
+    background-position: left bottom;
+    color: wheat;
+    border: none;
+    box-shadow: 0 0 20px rgb(255,45,45);
+
+
+}
+
 
