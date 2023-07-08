@@ -131,3 +131,20 @@
 }
 
 /*Gallary section*/
+ #gallary{
+   display:flex;
+   flex-direction: column;
+ }
+ .gallary{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-sizing: border-box;
+
+ }
+ .gallary img{
+    width:360px;
+    height:240px;
+    margin: 10px;
+    
+ }
