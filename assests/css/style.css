@@ -106,7 +106,7 @@ html{
     display:flex;
     flex-direction: column;
     box-sizing: border-box;
-    padding: 20px;
+    padding: 10px;
     margin-bottom:50px;
 
 }
@@ -127,6 +127,7 @@ html{
 #intro h2{
     font-size: 2rem;
     margin-bottom: 20px;
+    
     
 }
 
