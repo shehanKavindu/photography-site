@@ -108,6 +108,7 @@ html{
     box-sizing: border-box;
     padding: 10px;
     margin-bottom:50px;
+    background-color: black;
 
 }
 #pic{
@@ -116,6 +117,22 @@ html{
 #pic img{
     width:575xpx;
     height:400px;
+}
+
+.btn{
+    padding:10px 35px ;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    outline: none;
+    transition:.6s ease ;
+}
+.btn:hover{
+    cursor:pointer ;
+    background-color: white;
+    color: black;
+    box-shadow:0 0 5px white  0 0 10px white 0 0 15px white;
+    font-weight: bold;
 }
 
 #intro{
@@ -245,7 +262,6 @@ html{
  #send:hover{
     cursor: pointer;
     box-shadow: 0 0 10px whitesmoke;
-    
 
  }
 
